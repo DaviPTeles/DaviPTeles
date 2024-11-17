@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on some project as developer
 - 📫 How to reach me telegram: @daviteles4, gmail: davipereirateles7@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: i don´t like hot dogs
 <!---
 DaviPTeles/DaviPTeles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
